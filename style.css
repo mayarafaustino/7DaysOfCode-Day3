@@ -1,0 +1,18 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    color: azure;
+    background-color: #020202;
+    text-align: center;
+}
+h1 {
+    font-size: 44px;
+    padding: 2rem;
+}
+div {
+    padding: 1rem;
+}
+#opcao6 {
+    border: 2px solid #F1f1f1;
+    width: 40%;
+    margin: auto;
+}
